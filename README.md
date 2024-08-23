@@ -12,7 +12,7 @@ During my time at the Federal University of the Far East, I had the privilege of
 
 Discover the full collection of portraits and learn more about the project on the official website:
 
-Check out the [Digital Art Portraits](https://eddieborbon.com/DigitalArtPortraits/index.html) to explore the AI-generated portraits. <a href="https://eddieborbon.com/DigitalArtPortraits/index.html" target="_blank">Digital Art Portraits</a> 🌐
+Check out the [Digital Art Portraits](https://eddieborbon.com/DigitalArtPortraits/index.html) to explore the AI-generated portraits.
 
 ### ⚙️ Installation and Usage
 
