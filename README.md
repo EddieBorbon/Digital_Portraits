@@ -1,5 +1,7 @@
 # 🎨 Digital Art Portraits
 
+![Project Screenshot](cover.png) 
+
 ## ✨ Description
 
 Welcome to the **Digital Art Portraits** project, an artistic exploration of the fusion between art and artificial intelligence. This project showcases a collection of unique portraits generated using Stable Diffusion, an advanced AI model. These portraits feature my fellow artists from the Master’s program in Digital Art at the Federal University of the Far East.
